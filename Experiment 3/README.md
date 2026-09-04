@@ -234,24 +234,7 @@ White cards are used for important KPI values such as:
 Total Sales
 Total Orders
 Total Customers
-🖥️ Visual Layout
 
-The dashboard follows a simple structure:
-
-┌─────────────────────────────────────────────┐
-│       🛍️ RETAIL SALES & PERFORMANCE        │
-├────────────┬────────────┬───────────────────┤
-│ 💰 Sales   │ 🛒 Orders  │ 👥 Customers      │
-├────────────┴────────────┴───────────────────┤
-│                                             │
-│       📊 Sales by Category                  │
-│                                             │
-├──────────────────────┬──────────────────────┤
-│ 🌎 Sales by Region   │ 📅 Monthly Trend     │
-│                      │                      │
-├──────────────────────┴──────────────────────┤
-│ 🎛️ Month | Category | Region                │
-└─────────────────────────────────────────────┘
 📈 Key Business Insights
 
 The dashboard enables business users to answer important questions such as:
