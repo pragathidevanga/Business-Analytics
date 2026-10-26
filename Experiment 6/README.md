@@ -7,29 +7,29 @@
 
 ## 📌 Project Overview
 
-The **Sales Data Analysis and Interactive Dashboard** project focuses on transforming sales data into meaningful business insights using Microsoft Power BI. It provides an interactive view of sales performance through key performance indicators (KPIs), charts, tables, and regional filters.
+This project focuses on analyzing sales data and developing an interactive dashboard using Microsoft Power BI. It transforms sales data into meaningful visual insights through key performance indicators (KPIs), charts, tables, and interactive filters.
 
-The project demonstrates the application of data preprocessing, exploratory data analysis, and interactive dashboard development to support data-driven decision-making.
+The project demonstrates the use of data cleaning, data analysis, and visualization techniques to understand sales performance and support data-driven decision-making.
 
 ## 🎯 Objectives
 
-- Analyze sales data to understand overall business performance.
-- Evaluate product-wise and category-wise revenue.
+- Analyze sales data to understand business performance.
+- Compare revenue across different products and categories.
 - Explore regional sales performance using interactive filters.
-- Present key information through KPIs and visualizations.
-- Develop an easy-to-understand dashboard for business analysis.
+- Present important sales metrics through KPI cards and visualizations.
+- Develop an interactive dashboard for effective sales analysis.
 
 ## 🛠️ Tools and Technologies
 
 | Tool | Purpose |
 |---|---|
-| Microsoft Power BI Desktop | Dashboard development and visualization |
-| Power Query Editor | Data inspection, cleaning, and preprocessing |
-| Microsoft Excel | Sales data source, where applicable |
+| Microsoft Power BI Desktop | Dashboard development and data visualization |
+| Power Query Editor | Data cleaning and preprocessing |
+| Microsoft Excel | Sales dataset, where applicable |
 
 ## 📂 Dataset Description
 
-The project uses sales transaction data containing relevant business fields, depending on the dataset structure:
+The project uses sales transaction data containing relevant fields such as:
 
 - Transaction ID
 - Date
@@ -40,78 +40,70 @@ The project uses sales transaction data containing relevant business fields, dep
 - Profit
 - Quantity
 
-These fields support the analysis of sales performance and help identify patterns across products, categories, and regions.
+The available fields are used to explore sales performance and identify patterns across products, categories, and regions.
 
 ## 🧹 Data Cleaning and Preprocessing
 
-The data preparation process includes:
+The dataset is inspected and prepared before visualization. The process includes:
 
-1. Inspecting the dataset and its structure.
-2. Checking for missing or null values.
-3. Identifying potential duplicate records.
-4. Verifying column names and data types.
+1. Checking the dataset structure and column names.
+2. Inspecting missing or null values.
+3. Checking for duplicate transaction records.
+4. Verifying appropriate data types.
 5. Reviewing text fields for inconsistent values.
-6. Validating numerical fields.
-7. Applying necessary transformations in Power Query Editor.
+6. Validating numerical columns.
+7. Applying necessary transformations using Power Query Editor.
 
-*Note: Only the data-cleaning operations actually performed should be reported as completed.*
+*Note: Only report cleaning operations that were actually performed.*
 
 ## 📊 Dashboard Features
 
-- **KPI Analysis:** Summarizes key sales metrics available in the report.
+- **KPI Cards:** Present key sales metrics available in the report.
 - **Product-wise Revenue Analysis:** Compares revenue across products.
-- **Category-wise Revenue Analysis:** Examines revenue distribution across categories.
-- **Regional Analysis:** Uses a slicer to filter the dashboard by region.
-- **Transaction Details:** Displays sales records in a tabular format.
-- **Interactive Visualizations:** Enables users to explore the data through filters and visual elements.
+- **Category-wise Revenue Analysis:** Shows revenue distribution across categories.
+- **Regional Filtering:** Allows users to explore data for selected regions using a slicer.
+- **Sales Transaction Table:** Displays detailed transaction information.
+- **Interactive Visualizations:** Helps users explore sales data through dashboard filters.
 
 ## ⚙️ Methodology
 
-1. Import the sales dataset into Power BI.
-2. Inspect and prepare the data using Power Query Editor.
-3. Verify data types and perform necessary transformations.
-4. Create relevant calculations and measures.
-5. Build KPI cards, charts, tables, and slicers.
-6. Arrange the visualizations into an interactive dashboard.
-7. Test the dashboard and validate the displayed results.
+1. Imported the sales dataset into Power BI.
+2. Inspected and prepared the data using Power Query Editor.
+3. Verified column names and data types.
+4. Created the required calculations and measures.
+5. Developed KPI cards, charts, tables, and slicers.
+6. Designed the interactive sales dashboard.
+7. Tested the visualizations and filters.
 
 ## 🚀 How to Run the Project
 
-1. Install and open **Microsoft Power BI Desktop**.
+1. Install Microsoft Power BI Desktop.
 2. Download or clone this repository.
-3. Locate the Power BI `.pbix` project file.
+3. Locate the `.pbix` project file.
 4. Open the file in Power BI Desktop.
-5. Explore the dashboard using the available slicers and visualizations.
+5. Interact with the dashboard using the available filters and visualizations.
 
 ## 📈 Expected Outcome
 
-The dashboard provides a consolidated view of sales data and supports the exploration of revenue patterns across products, categories, and regions. It demonstrates how Power BI can be used to convert raw data into useful visual information for business analysis.
+The project provides an interactive view of sales performance and helps users explore revenue patterns by product, category, and region. It demonstrates how business data can be presented in a clear and structured visual format.
 
 ## 🎓 Learning Outcomes
 
-- Understanding the fundamentals of business analytics.
-- Performing data inspection and preprocessing.
-- Creating interactive visualizations in Power BI.
-- Using KPI cards, charts, tables, and slicers.
-- Presenting sales information in a structured dashboard.
+- Understanding business analytics concepts.
+- Learning data cleaning and preprocessing techniques.
+- Developing interactive dashboards in Power BI.
+- Working with KPI cards, charts, tables, and slicers.
+- Presenting sales data through meaningful visualizations.
 
-## 👥 Project Team
+## 👩‍💻 Project Author
 
-**Team Members**
+**Pragathi BR**
 
-- Pragathi BR
-- *[Team Member 2]*
-- *[Team Member 3]*
-- *[Team Member 4]*
-
-**Project Domain:** Business Analytics and Data Visualization
-
-**Academic Program:** Bachelor of Computer Applications (BCA)
-
-**Institution:** Alliance University
-
-*Replace the placeholders with the actual names of your team members. If this is an individual project, change the heading to “Project Author” and list only your name.*
+- **Academic Program:** Bachelor of Computer Applications (BCA)
+- **Institution:** Alliance University
+- **Project Domain:** Business Analytics and Data Visualization
+- **Tool:** Microsoft Power BI
 
 ## 🏁 Conclusion
 
-This project demonstrates the use of Microsoft Power BI for sales data preparation, analysis, and interactive dashboard development. It provides practical experience in presenting business data visually and extracting insights to support informed decision-making.
+This individual project demonstrates the application of Microsoft Power BI in sales data analysis and interactive dashboard development. It provides practical experience in preparing data, creating visualizations, and presenting sales information to support informed business decisions.
